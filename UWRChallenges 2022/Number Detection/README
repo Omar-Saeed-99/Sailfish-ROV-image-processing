@@ -1,0 +1,5 @@
+
+used Pytesseract library to detect numbers on the grade Numbers Returned as listed order
+from left to right have the same ordered of his position in camera frame depend on this ordering
+we draw the map of the grid. Based on how many numbers were discovered, should be the
+same number of equipment we need
