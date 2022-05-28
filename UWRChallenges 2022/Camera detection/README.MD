@@ -7,14 +7,10 @@ processing for detecting circles in imperfect images. The circle candidates are 
 matrix
 
 
-![image](https://user-images.githubusercontent.com/61525054/170823231-ee899eef-d700-4b48-8f4a-e7ae991271be.png)
 
 for detect the isometric we used yolov3 based on boxes database 
 like of database : https://public.roboflow.com/object-detection/packages-dataset
 
-![image](https://user-images.githubusercontent.com/61525054/170823236-e6a8c515-d52a-44db-8f68-91da6e446068.png)
+![image](https://user-images.githubusercontent.com/61525054/170823427-2a9f1979-22ae-4d98-a042-16c2b380c8ca.png)
 
-
-![image](https://user-images.githubusercontent.com/61525054/170823372-bff54d69-31aa-4e5c-abab-df91686f5dbc.png)     ![image](https://user-images.githubusercontent.com/61525054/170823259-caa50869-961f-4f2f-8747-08ddf707566f.png)
-       
 
